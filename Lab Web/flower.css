@@ -1,0 +1,43 @@
+.thesmile
+{
+	margin: 0 auto;
+	width: 1000px;
+	background-color: white;
+}
+.img_side
+{
+	margin: 20px;
+	float: left;
+}
+.price 
+{
+	margin-left: 30px;
+}
+.smiletext
+{
+	margin-top: 35px;
+	margin-left: 35px;
+	margin-right: 20px;
+	width: 550px;
+	float: right;
+}
+.details
+{
+	margin-left: 35px;
+}
+.details button
+{
+	background-color: brown;
+	color: white;
+	float: right;
+	width: 100px;
+	height: 25px;
+}
+
+.price button
+{
+	background-color: brown;
+	color: white;
+	width: 200px;
+	height: 25px;
+}
